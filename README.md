@@ -1,6 +1,5 @@
 University Admit Eligibility Predictor
 Team ID - PNT2022TMID04143
-
 Team Members:
 Arun Niranjan V (Team Lead)
 Sivasankar S M
