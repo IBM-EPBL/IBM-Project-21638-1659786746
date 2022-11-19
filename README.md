@@ -1,4 +1,10 @@
+
+
 Team ID - PNT2022TMID04143
+
+
+Team Members - Arun Nirajan V J, Sivasankar S M, Surya T, Anish E
+              
 
 
 University Admit Eligibility Predictor
